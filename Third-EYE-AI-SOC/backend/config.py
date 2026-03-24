@@ -1,0 +1,4 @@
+QRADAR_IP = "https://<QRADAR_IP>"
+QRADAR_TOKEN = "<TOKEN>"
+VT_API = "<VT_API>"
+ABUSE_API = "<ABUSE_API>"
